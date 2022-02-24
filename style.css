@@ -1,0 +1,52 @@
+body{
+    background-image: url('image/universe.jpg');
+}
+a{
+    font-family: 'Pacifico', cursive;
+    margin: 20px 30px;
+    text-decoration: none;
+    color: tomato;
+}
+.D{
+    color: blue;
+    font-family: 'Pacifico', cursive;
+    margin: 30px 90px  auto;
+}
+.B{
+    color: red;
+    font-family: none;
+    margin: 30px 200px;
+
+}
+.C{
+    color:aliceblue;
+    width: 600px;
+
+}
+.circle{
+    position: relative;
+    left: 170px;
+}
+.ex{
+    color: tomato;
+    position: relative;
+    bottom: 130px;
+    left: 225px;
+
+}
+.an{
+    width: 400px;
+    height: 170px;
+    position: relative;
+    left: 750px;
+    bottom: 440px;
+}
+a{
+    color: green;
+    border-bottom: .1em solid blue;
+    text-decoration: none;
+}
+a:hover{
+    color:red;
+    text-decoration: dotted;
+}
